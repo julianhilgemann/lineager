@@ -1,5 +1,5 @@
 # Lineager
-
+ 
 An interactive family tree you can explore from anyone's point of view. Pan and zoom across generations back to 1400, switch the viewpoint to any person and every label updates to their perspective (your dad becomes your uncle's brother), and scrub the timeline on the right to jump generation by generation.
 
 **Live:** https://julianhilgemann.github.io/lineager/
